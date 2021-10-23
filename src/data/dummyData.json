@@ -1,0 +1,126 @@
+{
+  "userData": [
+    {
+      "name": "Jan",
+      "Active User": 3000
+    },
+    {
+      "name": "Fev",
+      "Active User": 1891
+    },
+    {
+      "name": "Mar",
+      "Active User": 2055
+    },
+    {
+      "name": "Apr",
+      "Active User": 2780
+    },
+    {
+      "name": "May",
+      "Active User": 1090
+    },
+    {
+      "name": "Jun",
+      "Active User": 2390
+    },
+    {
+      "name": "Jul",
+      "Active User": 3445
+    },
+    {
+      "name": "Aug",
+      "Active User": 3490
+    },
+    {
+      "name": "Sep",
+      "Active User": 2017
+    },
+    {
+      "name": "Oct",
+      "Active User": 3490
+    },
+    {
+      "name": "Nov",
+      "Active User": 3490
+    },
+    {
+      "name": "Dec",
+      "Active User": 5490
+    }
+  ],
+  "userRows": [
+    {
+      "id": 1,
+      "username": "Snow Jon",
+      "email": "Thea_Brakus61@hotmail.com",
+      "avatar": "https://cdn.pixabay.com/photo/2017/07/25/10/37/woman-2537564__340.jpg",
+      "status": "active",
+      "transaction": "£544.02"
+    },
+    {
+      "id": 2,
+      "username": "Lannister Cersei",
+      "email": "Lennie24@gmail.com",
+      "avatar": "https://cdn.pixabay.com/photo/2016/04/29/21/14/woman-1361904__340.jpg",
+      "status": "active",
+      "transaction": "£922.67"
+    },
+    {
+      "id": 3,
+      "username": "Lannister Jaime",
+      "email": "Ethan_Brekke22@yahoo.com",
+      "avatar": "https://cdn.pixabay.com/photo/2016/11/29/03/52/man-1867175__340.jpg",
+      "status": "active",
+      "transaction": "£891.99"
+    },
+    {
+      "id": 4,
+      "username": "Stark Arya",
+      "email": "Deontae.Walter@gmail.com",
+      "avatar": "https://cdn.pixabay.com/photo/2020/03/09/21/53/indian-4917258__340.jpg",
+      "status": "active",
+      "transaction": "£316.28"
+    },
+    {
+      "id": 5,
+      "username": "Targaryen Daenerys",
+      "email": "Noemy_Crist47@gmail.com",
+      "avatar": "https://cdn.pixabay.com/photo/2015/10/12/15/08/man-984217__340.jpg",
+      "status": "active",
+      "transaction": "£460.38"
+    },
+    {
+      "id": 6,
+      "username": "Amelie_Schne",
+      "email": "er@hotmail.com",
+      "avatar": "https://cdn.pixabay.com/photo/2015/02/13/15/47/indians-635389__340.jpg",
+      "status": "active",
+      "transaction": "£690.47"
+    },
+    {
+      "id": 7,
+      "username": "Clifford Ferrara",
+      "email": "Aiyana91@hotmail.com",
+      "avatar": "https://cdn.pixabay.com/photo/2017/09/15/06/31/african-american-2751286__340.jpg",
+      "status": "active",
+      "transaction": "£624.76"
+    },
+    {
+      "id": 8,
+      "username": "Frances Rossini",
+      "email": "Marisol_Nikolaus@yahoo.com",
+      "avatar": "https://cdn.pixabay.com/photo/2021/09/28/05/59/woman-6663444__340.jpg",
+      "status": "active",
+      "transaction": "£312.41"
+    },
+    {
+      "id": 9,
+      "username": "Roxie Harvey",
+      "email": "Eden40@yahoo.com",
+      "avatar": "https://cdn.pixabay.com/photo/2013/11/20/21/25/african-214104__340.jpg",
+      "status": "active",
+      "transaction": "£129.5"
+    }
+  ]
+}
