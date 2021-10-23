@@ -3,15 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-.App {
-    text-align: center;
-    background-color: #282c34;
-    min-height: 100vh;
+body {
+    font-family: "Source Sans Pro", sans-serif;
+}
+.container {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    font-size: calc(10px + 2vmin);
-    color: white;
+    margin-top: 10px;
+
 }
