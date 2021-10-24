@@ -10,7 +10,6 @@ export default function UserList() {
 
     const handleDelete = (id) => {
         setData(data.filter((item) => item.id !== id));
-        console.log(data);
     };
 
     const columns = [

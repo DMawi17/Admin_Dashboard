@@ -12,6 +12,7 @@ import ChatBubbleIcon from "@mui/icons-material/ChatBubble";
 import WorkIcon from "@mui/icons-material/Work";
 import ShowChartIcon from "@mui/icons-material/ShowChart";
 import InfoIcon from "@mui/icons-material/Info";
+import { Link } from "react-router-dom";
 
 export default function Sidebar() {
     return (
@@ -37,14 +38,19 @@ export default function Sidebar() {
                 <div className="sidebarMenu">
                     <h3 className="sidebarTitle">Quick Menu</h3>
                     <ul className="sidebarList">
-                        <li className="sidebarListItem ">
-                            <PersonIcon className="sidebarIcon" />
-                            Users
-                        </li>
-                        <li className="sidebarListItem">
-                            <BackpackIcon className="sidebarIcon" />
-                            Products
-                        </li>
+                        <Link to="/users" className="link">
+                            <li className="sidebarListItem ">
+                                <PersonIcon className="sidebarIcon" />
+                                Users
+                            </li>
+                        </Link>
+                        <Link to="/products" className="link">
+                            <li className="sidebarListItem">
+                                <BackpackIcon className="sidebarIcon" />
+                                Products
+                            </li>
+                        </Link>
+
                         <li className="sidebarListItem">
                             <EuroIcon className="sidebarIcon" />
                             Transactions
