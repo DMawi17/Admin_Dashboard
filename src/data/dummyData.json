@@ -122,5 +122,93 @@
       "status": "active",
       "transaction": "£129.5"
     }
+  ],
+  "productRows": [
+    {
+      "id": 1,
+      "name": "Mac mini",
+      "stock": 785,
+      "img": "https://cdn.pixabay.com/photo/2015/09/05/07/39/apple-923955__480.jpg",
+      "status": "active",
+      "price": "£618.02"
+    },
+    {
+      "id": 2,
+      "name": "Apple Watch",
+      "stock": 760,
+      "img": "https://cdn.pixabay.com/photo/2017/07/31/21/59/apple-2561475__340.jpg",
+      "status": "active",
+      "price": "£112.67"
+    },
+    {
+      "id": 3,
+      "name": "Mackbook Air",
+      "stock": 430,
+      "img": "https://cdn.pixabay.com/photo/2016/03/27/07/12/apple-1282241__340.jpg",
+      "status": "active",
+      "price": "£565.99"
+    },
+    {
+      "id": 4,
+      "name": "Ipad mini",
+      "stock": 681,
+      "img": "https://cdn.pixabay.com/photo/2015/03/28/09/39/ipad-695661__340.jpg",
+      "status": "active",
+      "price": "£867.28"
+    },
+    {
+      "id": 5,
+      "name": "ipad Pro",
+      "stock": 957,
+      "img": "https://cdn.pixabay.com/photo/2019/10/15/01/11/ipad-4550306__340.jpg",
+      "status": "active",
+      "price": "£580.38"
+    },
+    {
+      "id": 6,
+      "name": "MacBook Pro",
+      "stock": 520,
+      "img": "https://cdn.pixabay.com/photo/2016/03/27/07/12/apple-1282241__340.jpg",
+      "status": "active",
+      "price": "£218.47"
+    },
+    {
+      "id": 7,
+      "name": "Iphone 13 Pro",
+      "stock": 671,
+      "img": "https://cdn.pixabay.com/photo/2021/09/24/17/11/phone-6653113__340.jpg",
+      "status": "active",
+      "price": "£951.76"
+    },
+    {
+      "id": 8,
+      "name": "Ipod",
+      "stock": 922,
+      "img": "https://cdn.pixabay.com/photo/2017/04/28/22/27/ipod-touch-2269621__340.jpg",
+      "status": "active",
+      "price": "£553.41"
+    },
+    {
+      "id": 9,
+      "name": "AirPods",
+      "stock": 647,
+      "img": "https://cdn.pixabay.com/photo/2017/10/15/16/17/airpods-2854300__340.jpg",
+      "status": "active",
+      "price": "9259.5"
+    }
+  ],
+  "productData": [
+    {
+      "name": "Jan",
+      "Sales": 3000
+    },
+    {
+      "name": "Fev",
+      "Sales": 1891
+    },
+    {
+      "name": "Mar",
+      "Sales": 2055
+    }
   ]
 }
