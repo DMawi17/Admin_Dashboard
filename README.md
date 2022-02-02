@@ -1,3 +1,8 @@
+<a href="https://admindashboard-444e3.web.app">
+        <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" 
+             alt="Admin Dashboard">
+</a>
+
 ## Available Scripts
 
 To install the dependencies run the following command from the root file:
