@@ -27,7 +27,7 @@ export default function UserList() {
                             src={params.row.avatar}
                             alt=""
                         />
-                        {params.row.username}
+                        {params.row.name}
                     </div>
                 );
             },
@@ -80,7 +80,7 @@ export default function UserList() {
                 disableSelectionOnClick
                 columns={columns}
                 pageSize={7}
-                rowsPerPageOptions={[5]}
+                rowsPerPageOptions={[7]}
                 checkboxSelection
             />
         </div>

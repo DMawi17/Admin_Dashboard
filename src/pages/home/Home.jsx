@@ -1,10 +1,10 @@
 import React from "react";
 import "./home.css";
-import FeaturedInfo from "../../components/featuredinfo/FeaturedInfo";
+import FeaturedInfo from "../../components/featuredInfo/FeaturedInfo";
 import Chart from "../../components/chart/Chart";
 import { userData } from "../../data/dummyData.json";
 import WidgetSm from "../../components/widgetSm/widgetSm";
-import WidgetLg from "../../components/widgetLg/WidgetLg";
+import WidgetLg from "../../components/widgetLg/widgetLg";
 
 export default function Home() {
     return (

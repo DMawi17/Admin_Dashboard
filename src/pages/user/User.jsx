@@ -116,7 +116,7 @@ export default function User() {
                         <div className="userUpdateRight">
                             <div className="userUpdateUpload">
                                 <img
-                                    src="https://cdn.pixabay.com/photo/2016/11/04/12/43/child-1797636__340.jpg"
+                                    src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1073.jpg"
                                     alt=""
                                     className="userUpdateImg"
                                 />

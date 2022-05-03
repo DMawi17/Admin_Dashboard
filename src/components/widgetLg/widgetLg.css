@@ -20,9 +20,6 @@
     font-weight: 300;
 }
 
-.widgetLgTr {
-}
-
 .widgetLgTh {
     text-align: left;
 }
@@ -39,12 +36,6 @@
     border-radius: 50%;
     object-fit: cover;
     margin-right: 10px;
-}
-
-.widgetLgName {
-}
-
-.widgetLgDate {
 }
 
 .widgetLgButton {

@@ -8,7 +8,7 @@
 
 .sidebarWrapper {
     padding: 20px;
-    color: #555;
+    color: #aaa;
 }
 
 .sidebarMenu {
@@ -27,7 +27,6 @@
 
 .sidebarListItem {
     padding: 5px;
-    cursor: pointer;
     display: flex;
     align-items: center;
     border-radius: 5px;
@@ -41,4 +40,11 @@
 .sidebarIcon {
     margin-right: 5px;
     font-size: 20px !important;
+}
+
+.home_link,
+.users_link,
+.products_link {
+    color: #555;
+    cursor: pointer;
 }

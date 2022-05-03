@@ -1,214 +1,214 @@
 {
-  "userData": [
-    {
-      "name": "Jan",
-      "Active User": 3000
-    },
-    {
-      "name": "Fev",
-      "Active User": 1891
-    },
-    {
-      "name": "Mar",
-      "Active User": 2055
-    },
-    {
-      "name": "Apr",
-      "Active User": 2780
-    },
-    {
-      "name": "May",
-      "Active User": 1090
-    },
-    {
-      "name": "Jun",
-      "Active User": 2390
-    },
-    {
-      "name": "Jul",
-      "Active User": 3445
-    },
-    {
-      "name": "Aug",
-      "Active User": 3490
-    },
-    {
-      "name": "Sep",
-      "Active User": 2017
-    },
-    {
-      "name": "Oct",
-      "Active User": 3490
-    },
-    {
-      "name": "Nov",
-      "Active User": 3490
-    },
-    {
-      "name": "Dec",
-      "Active User": 5490
-    }
-  ],
-  "userRows": [
-    {
-      "id": 1,
-      "username": "Snow Jon",
-      "email": "Thea_Brakus61@hotmail.com",
-      "avatar": "https://cdn.pixabay.com/photo/2017/07/25/10/37/woman-2537564__340.jpg",
-      "status": "active",
-      "transaction": "£544.02"
-    },
-    {
-      "id": 2,
-      "username": "Lannister Cersei",
-      "email": "Lennie24@gmail.com",
-      "avatar": "https://cdn.pixabay.com/photo/2016/04/29/21/14/woman-1361904__340.jpg",
-      "status": "active",
-      "transaction": "£922.67"
-    },
-    {
-      "id": 3,
-      "username": "Lannister Jaime",
-      "email": "Ethan_Brekke22@yahoo.com",
-      "avatar": "https://cdn.pixabay.com/photo/2016/11/29/03/52/man-1867175__340.jpg",
-      "status": "active",
-      "transaction": "£891.99"
-    },
-    {
-      "id": 4,
-      "username": "Stark Arya",
-      "email": "Deontae.Walter@gmail.com",
-      "avatar": "https://cdn.pixabay.com/photo/2020/03/09/21/53/indian-4917258__340.jpg",
-      "status": "active",
-      "transaction": "£316.28"
-    },
-    {
-      "id": 5,
-      "username": "Targaryen Daenerys",
-      "email": "Noemy_Crist47@gmail.com",
-      "avatar": "https://cdn.pixabay.com/photo/2015/10/12/15/08/man-984217__340.jpg",
-      "status": "active",
-      "transaction": "£460.38"
-    },
-    {
-      "id": 6,
-      "username": "Amelie_Schne",
-      "email": "er@hotmail.com",
-      "avatar": "https://cdn.pixabay.com/photo/2015/02/13/15/47/indians-635389__340.jpg",
-      "status": "active",
-      "transaction": "£690.47"
-    },
-    {
-      "id": 7,
-      "username": "Clifford Ferrara",
-      "email": "Aiyana91@hotmail.com",
-      "avatar": "https://cdn.pixabay.com/photo/2017/09/15/06/31/african-american-2751286__340.jpg",
-      "status": "active",
-      "transaction": "£624.76"
-    },
-    {
-      "id": 8,
-      "username": "Frances Rossini",
-      "email": "Marisol_Nikolaus@yahoo.com",
-      "avatar": "https://cdn.pixabay.com/photo/2021/09/28/05/59/woman-6663444__340.jpg",
-      "status": "active",
-      "transaction": "£312.41"
-    },
-    {
-      "id": 9,
-      "username": "Roxie Harvey",
-      "email": "Eden40@yahoo.com",
-      "avatar": "https://cdn.pixabay.com/photo/2013/11/20/21/25/african-214104__340.jpg",
-      "status": "active",
-      "transaction": "£129.5"
-    }
-  ],
-  "productRows": [
-    {
-      "id": 1,
-      "name": "Mac mini",
-      "stock": 785,
-      "img": "https://cdn.pixabay.com/photo/2015/09/05/07/39/apple-923955__480.jpg",
-      "status": "active",
-      "price": "£618.02"
-    },
-    {
-      "id": 2,
-      "name": "Apple Watch",
-      "stock": 760,
-      "img": "https://cdn.pixabay.com/photo/2017/07/31/21/59/apple-2561475__340.jpg",
-      "status": "active",
-      "price": "£112.67"
-    },
-    {
-      "id": 3,
-      "name": "Mackbook Air",
-      "stock": 430,
-      "img": "https://cdn.pixabay.com/photo/2016/03/27/07/12/apple-1282241__340.jpg",
-      "status": "active",
-      "price": "£565.99"
-    },
-    {
-      "id": 4,
-      "name": "Ipad mini",
-      "stock": 681,
-      "img": "https://cdn.pixabay.com/photo/2015/03/28/09/39/ipad-695661__340.jpg",
-      "status": "active",
-      "price": "£867.28"
-    },
-    {
-      "id": 5,
-      "name": "ipad Pro",
-      "stock": 957,
-      "img": "https://cdn.pixabay.com/photo/2019/10/15/01/11/ipad-4550306__340.jpg",
-      "status": "active",
-      "price": "£580.38"
-    },
-    {
-      "id": 6,
-      "name": "MacBook Pro",
-      "stock": 520,
-      "img": "https://cdn.pixabay.com/photo/2016/03/27/07/12/apple-1282241__340.jpg",
-      "status": "active",
-      "price": "£218.47"
-    },
-    {
-      "id": 7,
-      "name": "Iphone 13 Pro",
-      "stock": 671,
-      "img": "https://cdn.pixabay.com/photo/2021/09/24/17/11/phone-6653113__340.jpg",
-      "status": "active",
-      "price": "£951.76"
-    },
-    {
-      "id": 8,
-      "name": "Ipod",
-      "stock": 922,
-      "img": "https://cdn.pixabay.com/photo/2017/04/28/22/27/ipod-touch-2269621__340.jpg",
-      "status": "active",
-      "price": "£553.41"
-    },
-    {
-      "id": 9,
-      "name": "AirPods",
-      "stock": 647,
-      "img": "https://cdn.pixabay.com/photo/2017/10/15/16/17/airpods-2854300__340.jpg",
-      "status": "active",
-      "price": "9259.5"
-    }
-  ],
-  "productData": [
-    {
-      "name": "Jan",
-      "Sales": 3000
-    },
-    {
-      "name": "Fev",
-      "Sales": 1891
-    },
-    {
-      "name": "Mar",
-      "Sales": 2055
-    }
-  ]
+    "userData": [
+        {
+            "name": "Jan",
+            "Active User": 3000
+        },
+        {
+            "name": "Fev",
+            "Active User": 1891
+        },
+        {
+            "name": "Mar",
+            "Active User": 2055
+        },
+        {
+            "name": "Apr",
+            "Active User": 2780
+        },
+        {
+            "name": "May",
+            "Active User": 1090
+        },
+        {
+            "name": "Jun",
+            "Active User": 2390
+        },
+        {
+            "name": "Jul",
+            "Active User": 3445
+        },
+        {
+            "name": "Aug",
+            "Active User": 3490
+        },
+        {
+            "name": "Sep",
+            "Active User": 2017
+        },
+        {
+            "name": "Oct",
+            "Active User": 3490
+        },
+        {
+            "name": "Nov",
+            "Active User": 3490
+        },
+        {
+            "name": "Dec",
+            "Active User": 5490
+        }
+    ],
+    "userRows": [
+        {
+            "id": 1,
+            "name": "Snow Jon",
+            "email": "Thea_Brakus61@hotmail.com",
+            "avatar": "https://cdn.pixabay.com/photo/2017/07/25/10/37/woman-2537564__340.jpg",
+            "status": "active",
+            "transaction": "£544.02"
+        },
+        {
+            "id": 2,
+            "name": "Lannister Cersei",
+            "email": "Lennie24@gmail.com",
+            "avatar": "https://cdn.pixabay.com/photo/2016/04/29/21/14/woman-1361904__340.jpg",
+            "status": "active",
+            "transaction": "£922.67"
+        },
+        {
+            "id": 3,
+            "name": "Lannister Jaime",
+            "email": "Ethan_Brekke22@yahoo.com",
+            "avatar": "https://cdn.pixabay.com/photo/2016/11/29/03/52/man-1867175__340.jpg",
+            "status": "active",
+            "transaction": "£891.99"
+        },
+        {
+            "id": 4,
+            "name": "Stark Arya",
+            "email": "Deontae.Walter@gmail.com",
+            "avatar": "https://cdn.pixabay.com/photo/2020/03/09/21/53/indian-4917258__340.jpg",
+            "status": "active",
+            "transaction": "£316.28"
+        },
+        {
+            "id": 5,
+            "name": "Targaryen Daenerys",
+            "email": "Weston93@gmail.com",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/596.jpg",
+            "status": "active",
+            "transaction": "£460.38"
+        },
+        {
+            "id": 6,
+            "name": "Amelie_Schne",
+            "email": "er@hotmail.com",
+            "avatar": "https://cdn.pixabay.com/photo/2015/02/13/15/47/indians-635389__340.jpg",
+            "status": "active",
+            "transaction": "£690.47"
+        },
+        {
+            "id": 7,
+            "name": "Clifford Ferrara",
+            "email": "Aiyana91@hotmail.com",
+            "avatar": "https://cdn.pixabay.com/photo/2017/09/15/06/31/african-american-2751286__340.jpg",
+            "status": "active",
+            "transaction": "£624.76"
+        },
+        {
+            "id": 8,
+            "name": "Frances Rossini",
+            "email": "Marisol_Nikolaus@yahoo.com",
+            "avatar": "https://cdn.pixabay.com/photo/2021/09/28/05/59/woman-6663444__340.jpg",
+            "status": "active",
+            "transaction": "£312.41"
+        },
+        {
+            "id": 9,
+            "name": "Roxie Harvey",
+            "email": "Eden40@yahoo.com",
+            "avatar": "https://cdn.pixabay.com/photo/2013/11/20/21/25/african-214104__340.jpg",
+            "status": "active",
+            "transaction": "£129.5"
+        }
+    ],
+    "productRows": [
+        {
+            "id": 10,
+            "name": "Mac mini",
+            "stock": 785,
+            "img": "https://cdn.pixabay.com/photo/2015/09/05/07/39/apple-923955__480.jpg",
+            "status": "active",
+            "price": "£618.02"
+        },
+        {
+            "id": 11,
+            "name": "Apple Watch",
+            "stock": 760,
+            "img": "https://cdn.pixabay.com/photo/2017/07/31/21/59/apple-2561475__340.jpg",
+            "status": "active",
+            "price": "£112.67"
+        },
+        {
+            "id": 12,
+            "name": "Mackbook Air",
+            "stock": 430,
+            "img": "https://cdn.pixabay.com/photo/2016/03/27/07/12/apple-1282241__340.jpg",
+            "status": "active",
+            "price": "£565.99"
+        },
+        {
+            "id": 13,
+            "name": "Ipad mini",
+            "stock": 681,
+            "img": "https://cdn.pixabay.com/photo/2015/03/28/09/39/ipad-695661__340.jpg",
+            "status": "active",
+            "price": "£867.28"
+        },
+        {
+            "id": 14,
+            "name": "ipad Pro",
+            "stock": 957,
+            "img": "https://cdn.pixabay.com/photo/2019/10/15/01/11/ipad-4550306__340.jpg",
+            "status": "active",
+            "price": "£580.38"
+        },
+        {
+            "id": 15,
+            "name": "MacBook Pro",
+            "stock": 520,
+            "img": "https://cdn.pixabay.com/photo/2016/03/27/07/12/apple-1282241__340.jpg",
+            "status": "active",
+            "price": "£218.47"
+        },
+        {
+            "id": 16,
+            "name": "Iphone 13 Pro",
+            "stock": 671,
+            "img": "https://cdn.pixabay.com/photo/2021/09/24/17/11/phone-6653113__340.jpg",
+            "status": "active",
+            "price": "£951.76"
+        },
+        {
+            "id": 17,
+            "name": "Ipod",
+            "stock": 922,
+            "img": "https://cdn.pixabay.com/photo/2017/04/28/22/27/ipod-touch-2269621__340.jpg",
+            "status": "active",
+            "price": "£553.41"
+        },
+        {
+            "id": 18,
+            "name": "AirPods",
+            "stock": 647,
+            "img": "https://cdn.pixabay.com/photo/2017/10/15/16/17/airpods-2854300__340.jpg",
+            "status": "active",
+            "price": "9259.5"
+        }
+    ],
+    "productData": [
+        {
+            "name": "Jan",
+            "Sales": 3000
+        },
+        {
+            "name": "Fev",
+            "Sales": 1891
+        },
+        {
+            "name": "Mar",
+            "Sales": 2055
+        }
+    ]
 }
