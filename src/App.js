@@ -1,3 +1,4 @@
+import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "./App.css";
 import Topbar from "./components/topbar/Topbar";
@@ -11,39 +12,39 @@ import Product from "./pages/products/product/Product";
 import NewProduct from "./pages/products/newProduct/NewProduct";
 
 function App() {
-    return (
-        <Router>
-            <div className="App">
-                <Topbar />
-                <div className="container">
-                    <Sidebar />
-                    <Switch>
-                        <Route exact path="/">
-                            <Home />
-                        </Route>
-                        <Route path="/users">
-                            <UserList />
-                        </Route>
-                        <Route path="/user/:userId">
-                            <User />
-                        </Route>
-                        <Route path="/newUser/">
-                            <NewUser />
-                        </Route>
-                        <Route path="/products/">
-                            <ProductList />
-                        </Route>
-                        <Route path="/product/:productId/">
-                            <Product />
-                        </Route>
-                        <Route path="/newProduct/">
-                            <NewProduct />
-                        </Route>
-                    </Switch>
-                </div>
-            </div>
-        </Router>
-    );
+	return (
+		<Router>
+			<div className="App">
+				<Topbar />
+				<div className="container">
+					<Sidebar />
+					<Switch>
+						<Route exact path="/">
+							<Home />
+						</Route>
+						<Route path="/users">
+							<UserList />
+						</Route>
+						<Route path="/user/:userId">
+							<User />
+						</Route>
+						<Route path="/newUser/">
+							<NewUser />
+						</Route>
+						<Route path="/products/">
+							<ProductList />
+						</Route>
+						<Route path="/product/:productId/">
+							<Product />
+						</Route>
+						<Route path="/newProduct/">
+							<NewProduct />
+						</Route>
+					</Switch>
+				</div>
+			</div>
+		</Router>
+	);
 }
 
 export default App;
