@@ -1,3 +1,4 @@
+import React from 'react'
 import "./sidebar.css";
 import LineStyleIcon from "@mui/icons-material/LineStyle";
 import TimelineIcon from "@mui/icons-material/Timeline";
