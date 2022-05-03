@@ -1,10 +1,10 @@
 .newUser {
     flex: 4;
     margin-left: 2rem;
+    
 }
 
-.newUserTitle {
-}
+
 .newUserForm {
     display: flex;
     flex-wrap: wrap;
